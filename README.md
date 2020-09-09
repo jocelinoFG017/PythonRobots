@@ -31,5 +31,6 @@ Repositório criado para mostrar meus robos criados em python e suas bibliotecas
 e é claro tu precisa do driver do navegador (Firefox,Chrome, Internet Explorer).
 
 Tu pode encontrar o driver do firefox aqui.
+
         https://github.com/mozilla/geckodriver/releases
         
