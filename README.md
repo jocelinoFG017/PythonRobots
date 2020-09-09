@@ -3,8 +3,11 @@ Repository created to show my robots created in Python and your Libraries.(selen
 
 <h3>To use or test this examples you need this python libraries installed in your computer.</h3>
 - xlrd
+
 - selenium
+
 - requests
+
 and the browser driver(Firefox, Chrome, Internet Explorer)
 
 
@@ -26,8 +29,11 @@ PT-BR
 Repositório criado para mostrar meus robos criados em python e suas bibliotecas
 <h3>Para usar ou testar esse exemplo você precisa dessas bibliotecas instaladas em seu computador</h3>
 - xlrd
+
 - selenium
+
 - requests
+
 e é claro tu precisa do driver do navegador (Firefox,Chrome, Internet Explorer).
 
 Tu pode encontrar o driver do firefox aqui.
