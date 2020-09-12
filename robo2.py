@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import xlrd
 import time
 
 email = "jocelinogg@yandex.com"
@@ -32,7 +31,7 @@ password.send_keys(Keys.RETURN)
 time.sleep(7)
 
 #abrir caixa de ymail
-botao = driver.find_element_by_class_name("//div[@class='mail-ComposeButton-Wrap js-compose-button-container']")
+botao = driver.find_element_by_xpath("//a[@class='mail-ComposeButton js-main-action-compose']")
 botao.click()
 time.sleep(5)
 
