@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import xlrd
 import time
 
 email = "jocelinogg@yandex.com"
